@@ -1,8 +1,9 @@
-# Hi there, welcome to my page! 👋
+# Hi there 👋
+# ✨ Welcome to my page! ✨
 
-I’m a developer passionate about building audio applications with **C++** and **Python**, always open to interesting new initiatives! 🎶 💻 🎸 
+I’m a developer passionate about building audio applications with **C++** and **Python**, always open to interesting new initiatives! 🎶 💻 
 
-✨ I’m currently building **VST plugins** with **C++** and **JUCE** alongside some talented folks 🔭, and in the process, I’m learning about **ONNX** and how to use **LibTorch** for model conversion in audio tools. 🌱 ✨
+I’m currently building **VST plugins** with **C++** and **JUCE** alongside some talented folks, and in the process, I’m learning about **ONNX** and how to use **LibTorch** for model conversion in audio tools. 
 
 🚀 Feel free to check out my projects below! 👇
 
