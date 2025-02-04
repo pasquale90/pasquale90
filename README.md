@@ -1,7 +1,6 @@
-# Hi there 👋
-# ✨ Welcome to my page! ✨
+# Hi there 👋 Welcome to my page!
 
-I’m a developer passionate about building audio applications with **C++** and **Python**, always open to interesting new initiatives! 🎶 💻 
+✨ I’m a developer passionate about building audio applications with **C++** and **Python**, always open to interesting new initiatives! 🎶 💻 ✨
 
 🚀 Feel free to check out my projects below! 👇
 
