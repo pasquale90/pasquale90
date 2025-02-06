@@ -40,6 +40,8 @@ In this thesis we compared the performance of multiple feature parameters for en
 
 **[The SMOD Project](https://github.com/pasquale90/the_SMOD_project)**: a complex visualization of sound using an artistic approach
 
+A simple presentation of an audio visualizer with artistic design, utilizing diverse components and a MATLAB script to generate real-time analog and digital visuals synced with audio playback.
+
 <h1 align="center">
 
   <a href="https://github.com/pasquale90/the_SMOD_project"><img src="https://github.com/pasquale90/the_SMOD_project/raw/main/demo.gif" width="500"></a>
