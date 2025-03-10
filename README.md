@@ -2,9 +2,7 @@
 
 I'm a software engineer passionate about building audio applications, combining my love for music and programming. Although this journey can be quite challenging, I’m excited about the profound impact music can have on people's well-being, and not to mention, the potential social benefits.
 
-My professional interests involve **C**, **C++**, and **Python**, primarily working in **Linux** environments. I am acquainted with **Data Structures**, **Algorithms**, **Digital Signal Processing**, and **Machine Learning**. Having contributed to various stages of development, I have experience with **UML design**, **Testing**, **Continuous Integration**, **Dockerizing**, and using various tools to improve workflows. More details, you can be found in my [CV 📄](https://drive.google.com/file/d/1jfbuyEujN-_3lNRbRiovhBVjs0aU3zwr/view?usp=sharing)
-
-Currently, I’m exploring **JUCE** and **ONNX**, and in the future, I’m looking to expand into **Cross-Platform Development** and **RTOS**. 
+My professional interests involve **C**, **C++**, and **Python**, primarily working in **Linux** environments. I am acquainted with **Data Structures**, **Algorithms**, **Digital Signal Processing**, and **Machine Learning**. Having contributed to various stages of development, I have experience with **UML design**, **Testing**, **Continuous Integration**, **Dockerizing**, and using various tools to improve workflows. Currently, I’m exploring **JUCE** and **ONNX**, and in the future, I’m looking to expand into **Cross-Platform Development** and **RTOS**.
 
 🚀 If you're interested in collaborating or have a potential opportunity in mind, feel free to reach out. If you're just browsing and enjoy my work, I’d love to hear your thoughts or see you star my projects below! 👇
 
